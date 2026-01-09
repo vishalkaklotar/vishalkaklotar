@@ -1,88 +1,65 @@
-<h1 align="center">Hi 👋, I'm Vishal Kaklotar</h1>
-<h3 align="center">Flutter Developer | Clean Architecture Enthusiast | Passionate about Building Scalable Apps</h3>
+## Vishal Kaklotar — Senior Flutter Developer
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishalkaklotar&label=Profile%20views&color=0e75b6&style=flat" alt="vishalkaklotar" />
-</p>
+I am a Flutter developer with 4+ years of experience building scalable, maintainable,
+and testable mobile applications.
 
----
-
-### 🚀 About Me  
-
-I'm a **passionate Flutter developer** who loves writing clean, maintainable, and scalable code.  
-I focus on applying **SOLID principles** and **Clean Architecture** in every project to ensure long-term flexibility and performance.  
-
-I enjoy transforming complex problems into elegant UI and efficient backend communication using **Flutter**, **Firebase**, and **Spring Boot**.  
-Currently, I’m expanding my expertise into **Gradle plugin development** and advanced **code generation tools** in Dart.  
+My primary focus is **engineering quality**, not just UI delivery.
 
 ---
 
-### 🧠 What I Do  
+### What I Specialize In
 
-- 💡 Build modular, maintainable Flutter apps with Clean Architecture  
-- 🔥 Integrate REST APIs & Firebase with caching (Drift, Local DBs)  
-- ⚙️ Automate repetitive tasks using Dart code generation (`source_gen`)  
-- ☁️ Implement backend logic using **Spring Boot + PostgreSQL**  
-- 🧩 Follow scalable **feature-based architecture** for real-world apps  
-
----
-
-### 💬 Ask Me About  
-**Flutter | Firebase | Drift | Clean Architecture | SOLID Principles | Code Generation | Spring Boot**
+- Clean Architecture (feature-first, domain-driven)
+- SOLID principles applied practically in Flutter
+- Bloc for predictable and testable state management
+- Offline-first data strategies (local cache + sync)
+- Strong separation of concerns
+- Unit & Bloc testing for business logic
+- Production-ready project structuring
 
 ---
 
-### 📫 Reach Me  
+### What You Will Find in This GitHub
 
-<p align="left">
-  <a href="mailto:vishalkaklotar08@gmail.com" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="40" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/vishal-kaklotar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" />
-  </a>
-</p>
+This profile is intentionally minimal.
 
----
+Instead of many small demo apps, I maintain **a few well-engineered repositories**
+that demonstrate how I build Flutter applications in real-world, production scenarios.
 
-### 🛠️ Languages & Tools  
-
-<p align="left">
-<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-<a href="https://firebase.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-</p>
+You will see:
+- Strict architectural boundaries
+- Clearly defined data flow
+- Business logic isolated from UI
+- Testable design with meaningful tests
+- Code written for long-term maintenance and scalability
 
 ---
 
-### 📊 GitHub Stats  
+### My Engineering Philosophy
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalkaklotar&show_icons=true&locale=en&layout=compact" alt="vishalkaklotar" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalkaklotar&show_icons=true&locale=en" alt="vishalkaklotar" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalkaklotar" alt="vishalkaklotar" />
-</p>
+- Architecture matters more than UI polish
+- Business logic should be framework-independent
+- State management should be explicit and predictable
+- Code should be easy to extend without rewriting existing features
+- Tests are written to protect behavior, not increase coverage numbers
 
 ---
 
-### 🌱 Currently Exploring  
-- Advanced **Gradle plugin development**  
-- Flutter **build automation and custom code generation tools**  
-- **Backend integration patterns** for scalable app development  
+### Ideal Projects
+
+I work best on:
+- Long-term Flutter projects
+- Apps that require scalability and clean architecture
+- Codebase refactoring and stabilization
+- Performance and reliability improvements
+- Teams that value engineering discipline
 
 ---
 
-⭐️ *“When the why is clear, the how is easy.”*  
+### Contact
+
+If you are looking for a Flutter developer who prioritizes **clean design,
+testability, and maintainability**, feel free to reach out.
+
+📧 Email: [vishalkaklotar08@gmail.com](mailto:vishalkaklotar08@gmail.com)  
+💼 LinkedIn: [Vishal Kaklotar - Linkedin](https://www.linkedin.com/in/vishal-kaklotar)
